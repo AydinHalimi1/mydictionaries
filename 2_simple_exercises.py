@@ -13,7 +13,8 @@ sampleDict = {
    }
 }
 
-
+history = sampleDict['history']
+print(history)
 
 
 # 2) Add 2 inches to the son's height.
